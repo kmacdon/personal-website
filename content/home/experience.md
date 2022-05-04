@@ -22,16 +22,23 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+  - title: Senior Data Scientist
+    company: 84.51
+    company_url: 'www.8451.com'
+    location: Chicago, IL
+    date_start: '2022-04-01'
+    date_end: ''
+    description: ''
   - title: Data Scientist
     company: 84.51
     company_url: 'www.8451.com'
     location: Chicago, IL
     date_start: '2020-01-20'
-    date_end: ''
+    date_end: '2022-04-01'
     description: |2-
-        * Maintain and develop an automated program targeting patients eligible for various Kroger Pharmacy clinical programs including adherence based interventions and vaccine eligiblity. The program is responsible for targeting millions of patients daily and hundreds of millions of dollars in yearly revenue.
-        * Work with Kroger Dietitians to develop methodology for scoring food products based on nutritionional information and generating household-level nutrition ratings.
-        * Maintain and develop a pharmacy dashboard using R Shiny in order to allow stakeholders to track KPIs and customer behavior, reducing need for ad hoc analysis by data scientists and allowing faster access to data and insights.
+        * Maintained and developed an automated program targeting patients eligible for various Kroger Pharmacy clinical programs including adherence based interventions and vaccine eligiblity. The program is responsible for targeting millions of patients daily and hundreds of millions of dollars in yearly revenue.
+        * Worked with Kroger Dietitians to develop methodology for scoring food products based on nutritionional information and generating household-level nutrition ratings.
+        * Maintained and developed a pharmacy dashboard using R Shiny in order to allow stakeholders to track KPIs and customer behavior, reducing need for ad hoc analysis by data scientists and allowing faster access to data and insights.
         * Built a gradient boosted lookalike model to target customers for pharmacy ad campaigns, incorporating automated components to ensure easy retraining and scoring for quarterly campaigns.
         
   - title: Data Analytics Intern

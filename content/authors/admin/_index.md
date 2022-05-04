@@ -18,9 +18,9 @@ organizations:
 
 # Interests to show in About widget
 interests:
-- Data Visualization
+- Package Development
 - Statistical Modeling
-- Statistical Computing
+- Process Automation
 
 # Education to show in About widget
 education:
@@ -61,5 +61,5 @@ email: ""
 highlight_name: false
 ---
 
-Kevin is a Data Scientist at 84.51 on the Pharmacy team. He has experience in R, Python, C++, and SQL and has applied these skills in projects including Bayesian Modeling, Machine Learning, and Statistical Analysis and Modeling.
+Kevin is a Senior Data Scientist at 84.51 on the Collaborative Cloud team. He has experience with automation, statistical measurement, and creation of reusable code and data assets using R, python, and SQL.
 
